@@ -19,9 +19,6 @@ http://insight-meditation.org/
 
 ## Resources
 https://pitaka.lk/
-<<<<<<< HEAD
 http://www.aathaapi.org/
-=======
 
 ## YouTube Channels
->>>>>>> 377d4785a79cdb1838ff2aa093ceacc5b6be6692
