@@ -1,7 +1,7 @@
 
  Teacher | URL | comments
 ------------ | ------------- | --------
-Bhikkhu Katukurunde Nyanananda | http://seeingthroughthenet.net/
+Bhikkhu Katukurunde Nyanananda | [http://seeingthroughthenet.net/](http://seeingthroughthenet.net/)
 Handapangoda Niwathaapa Thero | http://dharmayaiobai.org
 Rerukane Chandawimala Maha Nayaka Thero | http://ogatharana.org/
 Siri Samanthabhadra Thero | www.ashramaya.org
