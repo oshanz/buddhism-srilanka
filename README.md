@@ -11,12 +11,17 @@ Ven. Walasmulle Abaya Thero | http://www.nirapekshathwayemaga.com/
 Ven. Waharaka Abayarathanalankara Thero | https://waharaka.com/ <br> http://aaryadharma.org/
 
 
-### Books
+## Books
 https://www.online.buddhistcc.com/
 
-### Monasteries
+## Monasteries
 http://insight-meditation.org/
 
-### Resources
+## Resources
 https://pitaka.lk/
+<<<<<<< HEAD
 http://www.aathaapi.org/
+=======
+
+## YouTube Channels
+>>>>>>> 377d4785a79cdb1838ff2aa093ceacc5b6be6692
