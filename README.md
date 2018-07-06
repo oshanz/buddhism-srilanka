@@ -4,6 +4,7 @@
 Bhikkhu Katukurunde Nyanananda | [http://seeingthroughthenet.net/](http://seeingthroughthenet.net/)
 Handapangoda Niwathaapa Thero | [http://dharmayaiobai.org](http://dharmayaiobai.org)
 Rerukane Chandawimala Maha Nayaka Thero | [http://ogatharana.org/](http://ogatharana.org/)
+Nauyane Ariyadhamma Mahathera | [http://www.nauyana.org/](http://www.nauyana.org/)
 Siri Samanthabhadra Thero | [www.ashramaya.org](www.ashramaya.org)
 Thiththagalle Anandasiri Thero | [http://mmbbss.com/](http://mmbbss.com/) | [Abhidharma lessons (youtube)](https://youtu.be/Bt9O4eZEUtQ)
 Walasmulle Abaya Thero | [http://www.nirapekshathwayemaga.com/](http://www.nirapekshathwayemaga.com/)
