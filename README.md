@@ -18,7 +18,7 @@ https://www.online.buddhistcc.com/
 http://insight-meditation.org/
 
 ## Resources
-https://pitaka.lk/
+https://pitaka.lk/ <br>
 http://www.aathaapi.org/
 
 ## YouTube Channels
