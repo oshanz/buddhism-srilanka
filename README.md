@@ -1,7 +1,7 @@
 
- Teacher | URL | comments
------------- | ------------- | --------
-Bhikkhu Katukurunde Nyanananda | [http://seeingthroughthenet.net/](http://seeingthroughthenet.net/)
+ Portrait | Teacher | URL | comments
+------- | ----- | ------------- | --------
+<img src="images/kn.jpg" width="60"> | Bhikkhu Katukurunde Nyanananda | [http://seeingthroughthenet.net/](http://seeingthroughthenet.net/)
 Gangodawila Soma Thero | [http://www.trekmentor.org/content/savaka/10590](http://www.trekmentor.org/content/savaka/10590)
 Handapangoda Niwathaapa Thero | [http://dharmayaiobai.org](http://dharmayaiobai.org)
 Kiribathgoda Gnanananda Thero | [https://mahamevnawa.lk/](https://mahamevnawa.lk/)
