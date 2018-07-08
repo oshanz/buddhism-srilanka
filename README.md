@@ -25,7 +25,7 @@ Ritigala
 
 ## Resources
 [https://pitaka.lk/](https://pitaka.lk/) <br>
-[http://www.aathaapi.org/](http://www.aathaapi.org/)
+[http://www.aathaapi.org/](http://www.aathaapi.org/) <br>
 [http://thripitaka.org/](http://thripitaka.org/)
 
 ## YouTube Channels
