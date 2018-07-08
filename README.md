@@ -11,6 +11,7 @@
 <img src="images/thith.jpg" width="100"> | Thiththagalle Anandasiri Thero | [http://mmbbss.com/](http://mmbbss.com/) <br> [Abhidharma lessons (youtube)](https://youtu.be/Bt9O4eZEUtQ)
 <img src="images/abaya.jpg" width="100"> | Walasmulle Abaya Thero | [http://www.nirapekshathwayemaga.com/](http://www.nirapekshathwayemaga.com/)
 <img src="images/waharaka.jpg" width="100"> | Waharaka Abayarathanalankara Thero | [https://waharaka.com/](https://waharaka.com/) <br> [http://aaryadharma.org/](http://aaryadharma.org/)
+<img src="images/maha.jpg" width="100"> | ? | [http://www.maharahathunwadimaga.com/](http://www.maharahathunwadimaga.com/)
 
 
 
