@@ -13,6 +13,7 @@
 <img src="images/abaya.jpg" width="100"> | Walasmulle Abaya Thero | [http://www.nirapekshathwayemaga.com/](http://www.nirapekshathwayemaga.com/)
 <img src="images/maha.jpg" width="100"> | ? | [http://www.maharahathunwadimaga.com/](http://www.maharahathunwadimaga.com/)
 <img src="images/Bhaddiya_Thero.jpg" width="100"> | Ven Mawarale Bhaddiya Thero | ?
+<img src="images/Ajahn_Brahmavamso_Mahathera.jpg" width="100"> | Ajahn Brahm Thero | [https://bswa.org/teachers/ajahn-brahm/](https://bswa.org/teachers/ajahn-brahm/)
 
 
 
