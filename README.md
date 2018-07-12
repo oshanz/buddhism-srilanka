@@ -1,6 +1,7 @@
 
  Portrait | Teacher | URL
 ------- | ----- | -------------
+<img src="images/compress_Ananda_Maitreya_thero_n.jpg" width="100"> | Balangoda Ananda Maitreya Thero | ?
 <img src="images/soma.jpg" width="100"> | Gangodawila Soma Thero | [http://www.trekmentor.org/content/savaka/10590](http://www.trekmentor.org/content/savaka/10590)
 <img src="images/niwathaapathero.png" width="100"> | Handapangoda Niwathaapa Thero | [http://dharmayaiobai.org](http://dharmayaiobai.org)
 <img src="images/kn.jpg" width="100"> | Katukurunde Nyanananda Thero | [http://seeingthroughthenet.net/](http://seeingthroughthenet.net/)
@@ -12,9 +13,6 @@
 <img src="images/waharaka.jpg" width="100"> | Waharaka Abayarathanalankara Thero | [https://waharaka.com/](https://waharaka.com/) <br> [http://aaryadharma.org/](http://aaryadharma.org/)
 <img src="images/abaya.jpg" width="100"> | Walasmulle Abaya Thero | [http://www.nirapekshathwayemaga.com/](http://www.nirapekshathwayemaga.com/)
 <img src="images/maha.jpg" width="100"> | ? | [http://www.maharahathunwadimaga.com/](http://www.maharahathunwadimaga.com/)
-<img src="images/Bhaddiya_Thero.jpg" width="100"> | Ven Mawarale Bhaddiya Thero | ?
-<img src="images/Ajahn_Brahmavamso_Mahathera.jpg" width="100"> | Ajahn Brahm Thero | [https://bswa.org/teachers/ajahn-brahm/](https://bswa.org/teachers/ajahn-brahm/)
-<img src="images/compress_Ananda_Maitreya_thero_n.jpg" width="100"> | Balangoda Ananda Maitreya Thero | ?
 
 
 
