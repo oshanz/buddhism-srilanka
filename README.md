@@ -10,7 +10,7 @@
 <img src="images/reru.jpg" width="100"> | Rerukane Chandawimala Maha Nayaka Thero | [http://ogatharana.org/](http://ogatharana.org/)
 <img src="images/samantha.jpg" width="100"> | Siri Samanthabhadra Thero | [http://ashramaya.org/](http://ashramaya.org)
 <img src="images/thith.jpg" width="100"> | Thiththagalle Anandasiri Thero | [http://mmbbss.com/](http://mmbbss.com/) <br> [Abhidharma lessons (youtube)](https://youtu.be/Bt9O4eZEUtQ)
-<img src="images/waharaka.jpg" width="100"> | Waharaka Abayarathanalankara Thero | [https://waharaka.com/](https://waharaka.com/) <br> [http://aaryadharma.org/](http://aaryadharma.org/)
+<img src="images/waharaka.jpg" width="100"> | Waharaka Abayarathanalankara Thero | [https://waharaka.com/](https://waharaka.com/) <br> [http://aaryadharma.org/](http://aaryadharma.org/) <br> [Waharaka TV](https://www.youtube.com/user/waharaka/)
 <img src="images/abaya.jpg" width="100"> | Walasmulle Abaya Thero | [http://www.nirapekshathwayemaga.com/](http://www.nirapekshathwayemaga.com/)
 <img src="images/maha.jpg" width="100"> | Rajagiriye Ariyagnyana Thero | [http://www.maharahathunwadimaga.com/](http://www.maharahathunwadimaga.com/)
 
