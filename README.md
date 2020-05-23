@@ -1,5 +1,5 @@
 
- Portrait | Teacher | URL
+ Portrait | Teacher | Resources
 ------- | ----- | -------------
 <img src="images/compress_Ananda_Maitreya_thero_n.jpg" width="100"> | Balangoda Ananda Maitreya Thero | ?
 <img src="images/soma.jpg" width="100"> | Gangodawila Soma Thero | [http://www.trekmentor.org/content/savaka/10590](http://www.trekmentor.org/content/savaka/10590)
@@ -24,10 +24,8 @@ Arankale<br>
 [Kanduboda](http://insight-meditation.org/)<br>
 Ritigala
 
-## Resources
+## etc
 [https://pitaka.lk/](https://pitaka.lk/) <br>
 [http://www.aathaapi.org/](http://www.aathaapi.org/) <br>
 [http://thripitaka.org/](http://thripitaka.org/) <br>
 [http://download.ifbcnet.org/](http://download.ifbcnet.org/)
-
-## YouTube Channels
