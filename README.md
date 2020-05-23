@@ -29,5 +29,4 @@ Ritigala
 [http://www.aathaapi.org/](http://www.aathaapi.org/) <br>
 [http://thripitaka.org/](http://thripitaka.org/) <br>
 [http://download.ifbcnet.org/](http://download.ifbcnet.org/) <br>
-[http://www.trekmentor.com/](http://www.trekmentor.com/)<br>
 [http://www.trekmentor.com/](http://www.trekmentor.com/)
